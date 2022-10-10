@@ -3,5 +3,5 @@
 > ### 1、引入composer
 
 ```
-composer require simon/jwt-token
+composer require simooonn/jwt-token
 ```

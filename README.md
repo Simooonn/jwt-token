@@ -7,6 +7,6 @@
 > ### 1、引入composer
 
 ```
-composer require simon/jwt-auth
+composer require simooonn/jwt-token
 ```
 
