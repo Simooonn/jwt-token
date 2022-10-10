@@ -27,7 +27,7 @@
     "classmap": [
     ],
     "files": [
-      "src/function/helper.php",
+      "src/function/helper.php"
     ]
   },
   "extra": {
